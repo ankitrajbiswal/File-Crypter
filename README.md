@@ -1,5 +1,5 @@
 ## Image-Encryption-and-Decryption
-This is a minor project which is based on Encryption and Decryption of an image for security purpose using the logic of XOR gate. The JAVA swing has been used in this project.
+This is a Minor Project which is based on Encryption and Decryption of any file for privacy purposes using the logic of XOR Gate. Java Swing has been used in this project.
 
 # About
 Now a days, there are many confidential images that people store in their laptop or Desktops, but they have also given access of these devices to someone else, or by anychance,
@@ -21,28 +21,28 @@ Step 2: After Running the  JAR file, you will see a dialog box will open as it i
 ![1](https://user-images.githubusercontent.com/53295960/123515663-eab3ab00-d6b5-11eb-8bd8-b74479b6d27c.png)
 
 
-Step 3: Before Clicking the open image button, first enter your CONFEDENTIAL Key for encryption.
+Step 3: Before Clicking the 'Open File Button', first enter your CRYPTER KEY for encryption.
 
-Step 4: After entering your key, Click Open Image and then A File explorer will open
+Step 4: After entering your Key, Click Open File and then A File explorer will open
 
 
 ![2](https://user-images.githubusercontent.com/53295960/123515898-04092700-d6b7-11eb-94ea-3b25ea3f0ad6.png)
 
 
-Step 5: Navigate to the Image you want to encrypt and then select it.
+Step 5: Navigate to the File you want to encrypt and then select it.
 
 Step 6: Congratulations!!!!, You have successfully Encrypted your image
 
 ![3](https://user-images.githubusercontent.com/53295960/123516041-bf31c000-d6b7-11eb-82b6-06baa7a5eacc.png)
 
 
-Step 7: For Decrypting,Repeat the same procedure, and your file will be decrypted.
+Step 7: For Decrypting,Repeat the same procedure, and your File will be decrypted.
 
 
 # Precautions
-1. Enter the same key for both encrypting and decrypting the image.
-2. Always Enter the key, before opening image for both encrypting and decrypting.
-3. Image files with large size can take few moments for encryption or decryption. Please Have Pateince
+1. Enter the same key for both encrypting and decrypting the file.
+2. Always Enter the key, before opening file for both encrypting and decrypting.
+3. Files with large size can take few moments for encryption or decryption. Please Have Pateince
 
 # Conclusion
 This project has been made with Java, and currently its UI have been kept extreamly simple, but few tweaks have to be made by me in UI to make this look more beautiful and appealing, the code will also be optimized a bit.
