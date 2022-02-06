@@ -18,7 +18,7 @@ Step 1: Download the JAR file, given in the repository. Run it in your system.
 Step 2: After Running the  JAR file, you will see a dialog box will open as it is shown in the below attachment.
 
 
-![1](https://user-images.githubusercontent.com/53295960/123515663-eab3ab00-d6b5-11eb-8bd8-b74479b6d27c.png)
+![1](https://user-images.githubusercontent.com/53295960/152681169-f769c3da-06f7-4f1b-9a59-65e69f0404c5.JPG)
 
 
 Step 3: Before Clicking the 'Open File Button', first enter your CRYPTER KEY for encryption.
@@ -33,7 +33,7 @@ Step 5: Navigate to the File you want to encrypt and then select it.
 
 Step 6: Congratulations!!!!, You have successfully Encrypted your image
 
-![3](https://user-images.githubusercontent.com/53295960/123516041-bf31c000-d6b7-11eb-82b6-06baa7a5eacc.png)
+![3](https://user-images.githubusercontent.com/53295960/152681219-79fc078d-7513-4025-907a-62db88e1cb5e.JPG)
 
 
 Step 7: For Decrypting,Repeat the same procedure, and your File will be decrypted.
